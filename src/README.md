@@ -22,7 +22,7 @@ El programa realiza las siguientes actividades:
 10. Muestra la cantidad de números que están por encima del promedio.
 
 ## Evidencia
-
+La captura muestra la ejecución del programa y los resultados obtenidos.
 ### Captura de la ejecución
 
 ![Ejecución del programa](capturas/consola.png)
