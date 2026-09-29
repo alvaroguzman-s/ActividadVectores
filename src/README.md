@@ -40,3 +40,4 @@ PEGAR_AQUI_EL_ENLACE_DEL_VIDEO
 * Visual Studio Code
 * Git
 * GitHub
+Actividad realizada en Java utilizando vectores y ciclos.
