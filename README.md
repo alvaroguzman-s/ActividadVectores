@@ -29,9 +29,7 @@ La captura muestra la ejecución del programa y los resultados obtenidos.
 
 ### Video
 
-Enlace del video de sustentació:
-
-
+https://youtu.be/_tx7IwHMcXk
 
 ## Herramientas utilizadas
 
